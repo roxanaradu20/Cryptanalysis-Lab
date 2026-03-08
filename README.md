@@ -26,7 +26,7 @@ Components and Implementations
   - Shows why 2DES does not provide 112-bit security due to MITM vulnerability.
 
 3. Number-Theoretic Algorithms and Discrete Logarithms
-4. -Extended Euclidean Algorithm and modular inverse computation.
+- Extended Euclidean Algorithm and modular inverse computation.
 - Baby-step Giant-step (BSGS) for discrete logarithms.
 - Chinese Remainder Theorem (CRT) for solving simultaneous congruences.
 - Pohlig-Hellman Algorithm for computing discrete logarithms modulo composite numbers.
